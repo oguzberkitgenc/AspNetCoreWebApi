@@ -1,0 +1,10 @@
+2024-12-15 02:50:13.8323 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-15 02:50:13.8459 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-15 02:50:13.8634 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\oguzb\OneDrive\Masaüstü\BTK_API\basics\bsStoreApp\WebApi\nlog.config
+2024-12-15 02:50:13.8789 Info Configuration initialized.
+2024-12-15 02:51:31.5138 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-15 02:51:31.5240 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-15 02:51:31.5240 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\oguzb\OneDrive\Masaüstü\BTK_API\basics\bsStoreApp\WebApi\nlog.config
+2024-12-15 02:51:31.5437 Info Configuration initialized.
+2024-12-15 02:52:32.7168 Info AppDomain Shutting down. LogFactory closing...
+2024-12-15 02:52:32.7307 Info LogFactory has been closed.
