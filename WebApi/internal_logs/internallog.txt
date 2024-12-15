@@ -8,3 +8,33 @@
 2024-12-15 02:51:31.5437 Info Configuration initialized.
 2024-12-15 02:52:32.7168 Info AppDomain Shutting down. LogFactory closing...
 2024-12-15 02:52:32.7307 Info LogFactory has been closed.
+2024-12-15 19:04:59.8723 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-15 19:04:59.8915 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-15 19:04:59.9202 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\oguzb\OneDrive\Masaüstü\BTK_API\basics\bsStoreApp\WebApi\nlog.config
+2024-12-15 19:04:59.9373 Info Configuration initialized.
+2024-12-15 19:06:21.9346 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-15 19:06:21.9519 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-15 19:06:21.9700 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\oguzb\OneDrive\Masaüstü\BTK_API\basics\bsStoreApp\WebApi\nlog.config
+2024-12-15 19:06:21.9890 Info Configuration initialized.
+2024-12-15 19:06:51.7734 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-15 19:06:51.7898 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-15 19:06:51.7898 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\oguzb\OneDrive\Masaüstü\BTK_API\basics\bsStoreApp\WebApi\nlog.config
+2024-12-15 19:06:51.8139 Info Configuration initialized.
+2024-12-15 19:09:04.5767 Info AppDomain Shutting down. LogFactory closing...
+2024-12-15 19:09:04.5886 Info LogFactory has been closed.
+2024-12-15 19:13:21.3812 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-15 19:13:21.3958 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-15 19:13:21.4083 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\oguzb\OneDrive\Masaüstü\BTK_API\basics\bsStoreApp\WebApi\nlog.config
+2024-12-15 19:13:21.4180 Info Configuration initialized.
+2024-12-15 19:30:14.7740 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-15 19:30:14.7858 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-15 19:30:14.7965 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\oguzb\OneDrive\Masaüstü\BTK_API\basics\bsStoreApp\WebApi\nlog.config
+2024-12-15 19:30:14.8067 Info Configuration initialized.
+2024-12-15 19:34:05.2747 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-15 19:34:05.2747 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-15 19:34:05.2963 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\oguzb\OneDrive\Masaüstü\BTK_API\basics\bsStoreApp\WebApi\nlog.config
+2024-12-15 19:34:05.3057 Info Configuration initialized.
+2024-12-15 19:37:32.0013 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-12-15 19:37:32.0117 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-12-15 19:37:32.0237 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\oguzb\OneDrive\Masaüstü\BTK_API\basics\bsStoreApp\WebApi\nlog.config
+2024-12-15 19:37:32.0237 Info Configuration initialized.
